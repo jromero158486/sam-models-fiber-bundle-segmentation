@@ -1,8 +1,10 @@
-# Fiber Bundle Segmentation Benchmarking
+# Benchmarking SAM Models for Fiber Bundle Segmentation
 
-Inference and evaluation code for applying SAM-family models to fiber-bundle
-segmentation in macaque brain-tracing datasets. The supported model variants
-are SAM, MedSAM, SAM2, and MedSAM2.
+Inference and evaluation code for comparing SAM, MedSAM, SAM2, and MedSAM2 on fiber bundle segmentation in macaque tracer histology.
+
+<p align="center">
+  <img src="sam_model_comparison.png" width="100%" alt="Comparison of SAM, MedSAM, SAM2, and MedSAM2 predictions"/>
+</p>
 
 ## Repository layout
 
